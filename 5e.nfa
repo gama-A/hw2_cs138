@@ -4,4 +4,4 @@ accepting: {q2}
 
 q0 (a -> q0) (_ -> q1)
 q1 (b -> q1) (a -> q2)
-q2 (a -> q2)
+q2 (a -> q2) 
