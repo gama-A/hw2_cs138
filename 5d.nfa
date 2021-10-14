@@ -1,4 +1,4 @@
-alphabet: {_}
+alphabet: {a,b}
 start: q0
 accepting: {q0}
 
